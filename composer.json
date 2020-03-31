@@ -10,13 +10,17 @@
     "require": {
         "php": "^7.2.5",
         "fideloper/proxy": "^4.2",
+        "frequenc1/newage-ipsum": "dev-master",
         "fruitcake/laravel-cors": "^1.0",
         "guzzlehttp/guzzle": "^6.3",
+        "jzonta/faker-restaurant": "^1.1",
         "laravel/framework": "^7.0",
         "laravel/tinker": "^2.0",
-        "laravel/ui": "^2.0"
+        "laravel/ui": "^2.0",
+        "xvladqt/faker-lorem-flickr": "dev-master"
     },
     "require-dev": {
+        "barryvdh/laravel-debugbar": "^3.2",
         "facade/ignition": "^2.0",
         "fzaninotto/faker": "^1.9.1",
         "mockery/mockery": "^1.3.1",
